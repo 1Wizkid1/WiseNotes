@@ -1,0 +1,15 @@
+WiseNotes Changelog
+
+8-24-2016: I have re-worked a lot of the code and made it a little more customizable by using a config file. 
+
+What does this mean? You no longer have to use the prescribed locations for the MDF file and the folder where you store notes. 
+
+*** PLEASE UNINSTALL THE OLD VERSION MANUALLY FIRST ***
+
+The first time you open up the new version with the config file, it will ask you to choose a directory that you want the database files to be stored in (make sure its one you have read/write privileges in) 
+
+It will also ask you where you want to store the notes, choose a folder for that (read/write privileges required) and it will set that.
+
+What's the benefit? You can use a mapped drive of a network location. This will make a little more accessible in the sense that you are no longer have to save them locally, but you can now save them to a server.
+
+Since servers are generally backed up, this will add to the safe-keeping of your notes.
